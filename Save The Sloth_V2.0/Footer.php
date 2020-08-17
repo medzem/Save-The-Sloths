@@ -3,8 +3,8 @@
 				<a href="index.php"><div id="LittleLogo"><img src="images/LittleLogo.png"> <span id="firstW">Nad</span><span id="secondW">Ze</span><span id="thirdW">Loth</span></div></a>
 				<p>If you've landed on this page it's because YOU want to make even more of a difference, thank you! We wouldn't exist without the support of awesome, passionate people like you.</p>
 				<div>
-					<p>Telephone. :<span><br>99-258-198<br>26-680-010</span></p>
-					<p>Email :<span><br>hazemben@gmail.com<br>yahyaoui.nadiaa@gmail.com</span></p>
+					<p>Telephone. :<span><br>+216 XX-XXX-XXX</span></p>
+					<p>Email :<span><br>hazemben@gmail.com</span></p>
 				</div>
 			</div>
 			<div>
